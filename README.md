@@ -8,7 +8,7 @@
 echo "HELLO."
 ```
 
-```
+```golang
 package main
 
 import "fmt"
