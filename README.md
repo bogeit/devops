@@ -17,3 +17,7 @@ func main() {
   fmt.println("HELLO.")
 }
 ```
+
+```python
+print('HELLO.')
+```
