@@ -7,3 +7,13 @@
 #!/bin/bash
 echo "HELLO."
 ```
+
+```
+package main
+
+import "fmt"
+
+func main() {
+  fmt.println("HELLO.")
+}
+```
