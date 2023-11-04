@@ -14,8 +14,9 @@ package main
 import "fmt"
 
 func main() {
-  fmt.println("HELLO.")
+	fmt.Println("HELLO.")
 }
+
 ```
 
 ```python
